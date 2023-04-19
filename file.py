@@ -11,3 +11,7 @@ if (a==1):
 	a++,
 else:
 	print('its done')
+
+print('its done for today')
+
+print('its interesting for learning')
