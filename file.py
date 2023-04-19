@@ -1,5 +1,6 @@
-peint('hello guys')
+print('hello guy')
 if (a==2):
 	print ('correct')
-elsey:
+else:
 	print('incorrrect')
+
