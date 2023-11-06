@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print('hello guy')
 if (a==2):
 	print ('correct')
@@ -15,3 +16,7 @@ else:
 print('its done for today')
 
 print('its interesting for learning')
+=======
+if (a==3)
+ then (a*A);
+>>>>>>> 60227b1 (Restart commit)
