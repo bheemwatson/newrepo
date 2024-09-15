@@ -15,4 +15,4 @@ mkdir gitdir
 cd gitdir
 
 #create 2 file
-touch 1.py 2.py
+touch 1.py 5.py
